@@ -81,7 +81,7 @@
     - Ramipril (ace inhibitor)
     - CCB
  
- ## Newer therepy modalities
+## Newer therepy modalities
  
  * Polypill therepy
     - A Statin (to reduce cholesterol)
