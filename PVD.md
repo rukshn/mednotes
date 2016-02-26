@@ -86,5 +86,6 @@
  * Polypill therepy
     - A Statin (to reduce cholesterol)
     - A beta blocker, ACE inhibitor, a dyuretic to reduce blood pressure
-    - 
+    - Foleic acid to recude homocysteine
+    - Aspring to recude blood clotting
     
