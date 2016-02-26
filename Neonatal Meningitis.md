@@ -92,4 +92,9 @@ In antibacterial therepy give peniccilin/ampiliccilin with gentamycin/cefotaxime
 Corticosteroids for prevent complications of meningitis, not suitable for neonates.
 
 Assess treatmet success after repeating a CSF full report 24-48 hours of starting antibiotics.
+C-reactive protein levels can be useful in identifying the presence of a systemic anti-inflammatory response and can be used serially to track the response to treatment.
 
+**Neisseria meningitidis or H. influenzae, seven days**
+**S. pneumoniae, 10 to 14 days**
+**Streptococcus agalactiae, 14 to 21 days** 
+**Aerobic gram-negative bacilli, 21 days**
